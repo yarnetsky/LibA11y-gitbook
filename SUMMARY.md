@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Introduction: Why should we care about accessibility?](README.md)
+* [Introduction](README.md)
+* [Why should we care about accessibility?](introduction.md)
 * [How screen readers see different](what-are-we-trying-to-accomplish-with-accessibility.md)
 * [Three goals of a well-coded page](three-goals-of-a-well-coded-page.md)
 * [Let's install a simple accessibility testing tool](simple-testing-tools.md)
@@ -16,7 +17,7 @@
 * [Video and Audio](howto/better-video.md)
 * [Extra tip: Better copy-pasting](howto/copy-pasting.md)
 
-## Accessibility Toolbox & Resources
+## Toolbox & Resources
 
 * [Accessibility testing and helping tools](accessibility-tools/browser-tools.md)
 * [Useful Links](accessibility-tools/useful-links.md)
