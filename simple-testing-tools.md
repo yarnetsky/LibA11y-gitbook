@@ -8,10 +8,10 @@ In the next section, we'll outline strategies for creating accessible content. A
 
 ### Installation method 1: bookmarklet <a id="Installation"></a>
 
-Do you keep a bookmarks bar visible? Simply click and hold the Tota11y link below, then drag the link from the box below into your bookmarks bar. To activate the tool, simply click the bookmark.
+Do you keep your bookmarks bar visible in your browser? Simply click and hold the Tota11y link below, then drag the link from the box below into your bookmarks bar. To activate the tool, simply click the bookmark.
 
 {% hint style="info" %}
-\*\*\*\*[**tota11y**](javascript:%28function%28%29{var%20tota11y=document.createElement%28'SCRIPT'%29;tota11y.type='text/javascript';tota11y.src='https://khan.github.io/tota11y/tota11y/build/tota11y.min.js';document.getElementsByTagName%28'head'%29[0].appendChild%28tota11y%29;}%29%28%29;)\*\*\*\*
+\*\*\*\*[**Tota11y**](javascript:%28function%28%29{var%20tota11y=document.createElement%28'SCRIPT'%29;tota11y.type='text/javascript';tota11y.src='https://khan.github.io/tota11y/tota11y/build/tota11y.min.js';document.getElementsByTagName%28'head'%29[0].appendChild%28tota11y%29;}%29%28%29;)\*\*\*\*
 {% endhint %}
 
 ### Installation method 2: Chrome extension
