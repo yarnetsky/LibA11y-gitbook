@@ -1,6 +1,6 @@
 # Let's install a simple accessibility testing tool
 
-In the next section, we'll outline strategies for creating accessible content. Implementing the methods at the point of creation can help solve many issues. However, we also need to double check our work and look at older content for upgrading. So let's install an easy-to-use tool that can help you identify any potential issues in your content.
+In the next section, we'll outline strategies for creating accessible content. As you create this material, try this simple tool for double checking your work \(and also to examine older content for accessibility upgrades\). 
 
 ## Tota11y accessibility visualization tool
 
@@ -8,7 +8,7 @@ In the next section, we'll outline strategies for creating accessible content. I
 
 ### Installation method 1: bookmarklet <a id="Installation"></a>
 
-Tota11y can be used in any desktop browser. Simply grab and drag the link from the box below into your bookmarks bar. You'll then click this link to activate Tota11y.
+Do you keep a bookmarks bar visible? Simply click and hold the Tota11y link below, then drag the link from the box below into your bookmarks bar. To activate the tool, simply click the bookmark.
 
 {% hint style="info" %}
 \*\*\*\*[**tota11y**](javascript:%28function%28%29{var%20tota11y=document.createElement%28'SCRIPT'%29;tota11y.type='text/javascript';tota11y.src='https://khan.github.io/tota11y/tota11y/build/tota11y.min.js';document.getElementsByTagName%28'head'%29[0].appendChild%28tota11y%29;}%29%28%29;)\*\*\*\*
