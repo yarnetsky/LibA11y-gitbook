@@ -1,6 +1,6 @@
 # Let's install a simple accessibility testing tool
 
-In the next section, we'll outline strategies for creating accessible content. As you create this material, try this simple tool for double checking your work \(and also to examine older content for accessibility upgrades\). 
+In the next section, we'll outline strategies for creating accessible content. But first, let's try installing a simple tool that can help double check your work as you create this material. 
 
 ## Tota11y accessibility visualization tool
 
