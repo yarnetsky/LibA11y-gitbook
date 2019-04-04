@@ -23,7 +23,7 @@ Do you keep your bookmarks bar visible in your browser? Simply click and hold th
 ![Click the glasses icon at the bottom corner to activate](.gitbook/assets/screen-shot-2019-03-21-at-2.19.09-pm.png)
 
 1. Go to the page you wish to evaluate
-2. Either click the Tota11y bookmark you just installed \(or the Chrome extention icon\).
+2. Click the Tota11y bookmark you just installed \(or the Chrome extension icon\).
 3. Click the black x-ray glasses icon which will now appear at the bottom left corner of your page \(screenshot above\).
 4. You'll see a pop-up menu with choices such as Headers, Contrast, and Image alt-text. 
 5. Clicking one of these options will provide information and screen annotations and track any errors.
