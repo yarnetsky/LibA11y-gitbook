@@ -44,7 +44,7 @@ In LibGuides, Heading 1 `<h1>` is reserved for guide titles and Heading 2 `<h2>`
 
 ## Testing
 
-![The headings summary box shows the sequential order of headers](../.gitbook/assets/screen-shot-2019-03-21-at-2.25.59-pm.png)
+![The headings summary box shows the sequential order of headers](../.gitbook/assets/headings-summary-screen.png)
 
 ### Using Tota11y
 
