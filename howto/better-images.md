@@ -1,4 +1,4 @@
-# Images
+# 2.2 Images
 
 ## The Interaction
 

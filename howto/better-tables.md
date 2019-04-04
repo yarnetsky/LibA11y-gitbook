@@ -1,4 +1,4 @@
-# Tables
+# 2.6 Tables
 
 ## The Interaction
 

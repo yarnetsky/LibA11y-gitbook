@@ -1,4 +1,4 @@
-# Quick intro
+# 2.0 Quick intro
 
 Over the next few pages, we'll cover areas where we can easily improve the  accessibility of our content. 
 

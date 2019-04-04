@@ -2,7 +2,7 @@
 description: Color and text often interact so we'll cover both here...
 ---
 
-# Color and Text
+# 2.4 Color and Text
 
 ## The Interactions
 

@@ -1,25 +1,28 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Why should we care about accessibility?](introduction.md)
-* [How screen readers see different](what-are-we-trying-to-accomplish-with-accessibility.md)
-* [Three goals of a well-coded page](three-goals-of-a-well-coded-page.md)
-* [Let's install a simple accessibility testing tool](simple-testing-tools.md)
 
-## How To Build Better...
+## Part 1: Why should we care about accessibility?
 
-* [Quick intro](howto/quick-intro.md)
-* [Headers](howto/better-headers.md)
-* [Images](howto/better-images.md)
-* [Color and Text](howto/better-color.md)
-* [Hyperlinks](howto/better-links.md)
-* [Tables](howto/better-tables.md)
-* [Video and Audio](howto/better-video.md)
-* [Extra tip: Better copy-pasting](howto/copy-pasting.md)
+* [1.1 Why should we care about accessibility?](part-1-why-should-we-care-about-accessibility/introduction.md)
+* [1.2 How is our content perceived?](part-1-why-should-we-care-about-accessibility/how-screen-readers-see.md)
+* [1.3 Three goals of a well-coded page](part-1-why-should-we-care-about-accessibility/three-goals.md)
+* [1.4 Let's install a simple accessibility testing tool](part-1-why-should-we-care-about-accessibility/simple-testing-tools.md)
+
+## Part 2: How To Build Better...
+
+* [2.0 Quick intro](howto/quick-intro.md)
+* [2.1 Headers](howto/headers.md)
+* [2.2 Images](howto/better-images.md)
+* [2.3 Video and Audio](howto/better-video.md)
+* [2.4 Color and Text](howto/better-color.md)
+* [2.5 Hyperlinks](howto/better-links.md)
+* [2.6 Tables](howto/better-tables.md)
+* [2.7 Extra tip: Better copy-pasting](howto/copy-pasting.md)
 
 ## Toolbox & Resources
 
-* [Accessibility testing and helping tools](accessibility-tools/browser-tools.md)
-* [Useful Links](accessibility-tools/useful-links.md)
+* [3.1 Accessibility testing and helping tools](accessibility-tools/browser-tools.md)
+* [3.2 Useful Links](accessibility-tools/useful-links.md)
 * [Endnotes](accessibility-tools/endnotes.md)
 

@@ -1,4 +1,4 @@
-# Extra tip: Better copy-pasting
+# 2.7 Extra tip: Better copy-pasting
 
 ## The hidden problem with copy/paste
 
