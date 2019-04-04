@@ -8,8 +8,8 @@ description: Color and text often interact so we'll cover both here...
 
 {% hint style="info" %}
 * **Color and content**: Screen readers cannot verbalize information offered only by color. 
-* **Color blindness**: Students with color blindness may not be able to differentiate poorly chosen color combinations. For example, green and red symbolizing open and closed.
-* **Low contrast**: Low contrast combinations, such as white on gray or white on yellow, can be very difficult for students with low sight and dyslexia. Similarly...
+* **Color blindness**: Students with color blindness may not be able to differentiate colors from poorly chosen combinations. For example, green and red symbolizing open and closed.
+* **Low contrast**: Low contrast combinations, such as white on gray or white on yellow, can be very difficult for students with low sight and dyslexia.
 * **Small Text**: Similarly, some people need to enlarge text, alter the font, or line spacing in order to read our content.
 {% endhint %}
 
