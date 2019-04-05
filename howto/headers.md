@@ -1,18 +1,20 @@
-# 2.1 Headers
+# 2.1 Headings
+
+Headings act as the headlines within a web document. They provide the content structure and hierarchy.
 
 ## Screen reader interaction
 
 {% hint style="info" %}
-* Students can quickly skim the contents of our page by listening to the page headings. This helps a student understand our page's content structure and hierarchy.
-* It also helps with page navigation as a person can also jump to those points on the page. 
-* Our content is described in a linear fashion by the screen reader. As such, even three-column pages are described as a single column starting with the first column.
+* Users can quickly skim the contents of a webpage by listening to the page headings. This helps a user understand a page's content structure and hierarchy.
+* Headings also act as page navigation. A person using a screen reader, having listened to the page's headings, can then jump to any heading on a page. 
+* Content is described in a linear fashion by the screen reader. As such, even three-column pages are described as a single column starting with the first column.
 {% endhint %}
 
 ## Solution: Use headings to give your content a logical hierarchy. 
 
-Use page headings to outline your content— not unlike a bulleted page outline or table of contents. Use the headings in order and don't skip headings.
+Use page headings to outline content— not unlike a bulleted page outline or table of contents. Use the headings in order and don't skip headings.
 
-In LibGuides, Heading 1 `<h1>` is reserved for guide titles and Heading 2 `<h2>` is held for box titles. For content within the boxes, we will use headings 3 to 6. Here's an example of how to use headings to keep your content in order.
+In LibGuides, Heading 1 `<h1>` is reserved for guide titles and Heading 2 `<h2>` is held for box titles. For content within the boxes, use headings 3 to 6. Here's an example of how to use headings to keep content in order.
 
 {% hint style="info" %}
 * **H1 Guide Title**

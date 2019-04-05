@@ -2,7 +2,7 @@
 
 ### Universal access provides greater than expected benefits
 
-A student with hearing loss can obviously benefit from closed captioned video. So can a person who has issue differentiating spoken words from background noise. Yet many library videos are made with non-professional equipment and streamed over slower cell networks. In these instances, the sound quality of the video itself can suffer. Captioning walks in for the win!
+A student with hearing loss can obviously benefit from closed captioned video. So can a person who has issues differentiating spoken words from background noise. Yet many library videos are made with non-professional equipment and streamed over slower cell networks. In these instances, the sound quality of the video itself can suffer. Captioning walks in for the win!
 
 ### **Students are using the legal system to fight for equal access**
 

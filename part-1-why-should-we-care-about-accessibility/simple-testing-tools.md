@@ -1,22 +1,25 @@
 # 1.4 Let's install a simple accessibility testing tool
 
-In part 2, we'll outline strategies for creating accessible content. But first, let's try installing a simple tool that can help double check your work as you create. 
+In the next section, strategies will be outlined for creating accessible content. But first, let's install a simple tool that can double check your work as it is created. 
 
 ## Install Tota11y, an accessibility visualization tool
 
-\*\*\*\*[**Tota11y**](http://khan.github.io/tota11y/) is a bookmarklet created by the Kahn Academy to help you visualize how your content is perceived by screen readers and other assistive technology. 
+The [**Tota11y**](http://khan.github.io/tota11y/) javascript bookmarklet was created by the Kahn Academy to visualize how web content is perceived by screen readers and other assistive technology. 
 
 ### Install option 1: bookmarklet <a id="Installation"></a>
 
-Do you keep your bookmarks bar visible in your browser? If so use this option. To install, simply click and hold the Tota11y link in the box below, then drag the link from the box into your bookmarks bar. To activate the tool, simply click the bookmark.
+Is your bookmarks bar visible in your browser? If so, try this option. To install, click and hold the Tota11y link in the box below, then drag the link from the box into your bookmarks bar. To activate the tool, simply click the bookmark.
 
 {% hint style="info" %}
 \*\*\*\*[**Tota11y**](javascript:%28function%28%29{var%20tota11y=document.createElement%28'SCRIPT'%29;tota11y.type='text/javascript';tota11y.src='https://khan.github.io/tota11y/tota11y/build/tota11y.min.js';document.getElementsByTagName%28'head'%29[0].appendChild%28tota11y%29;}%29%28%29;)\*\*\*\*
 {% endhint %}
 
-### Install option 2: Chrome extension
+### Install option 2: Chrome or Firefox extension
 
-[Tota11y is also available as a Chrome extension](https://chrome.google.com/webstore/detail/tota11y-plugin-from-khan/oedofneiplgibimfkccchnimiadcmhpe/related). Install the extension, then click the eyeglasses icon in your toolbar to activate.
+This same tool has also been adapted to be a Chrome and Firefox extension. Install the extension and you'll see the eyeglasses icon in your toolbar, which you can click to activate.
+
+* [Tota11y Chrome extension](https://chrome.google.com/webstore/detail/tota11y-plugin-from-khan/oedofneiplgibimfkccchnimiadcmhpe/related)
+* [Opena11y Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/opena11y-toolkit/): Using the Tota11y script.
 
 ## Using Tota11y
 
@@ -32,10 +35,4 @@ Do you keep your bookmarks bar visible in your browser? If so use this option. T
    * Similarly clicking the glasses again minimizes the tool.
 
 We will review these tools on the following pages as we talk about how to create better content.
-
-## In Part 2: How to build better...
-
-In our next set of pages, we will go into more details on how assistive technologies access our pages, then provide examples and tips for how you can make powerful contributions to making your content universally accessible.
-
-Onward!
 

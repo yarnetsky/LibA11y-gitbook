@@ -11,7 +11,8 @@
 
 ## Part 2: How To Build Better...
 
-* [2.1 Headers](howto/headers.md)
+* [2.0 How to build better...](howto/2.0-how-to-build-better....md)
+* [2.1 Headings](howto/headers.md)
 * [2.2 Images](howto/better-images.md)
 * [2.3 Video and Audio](howto/better-video.md)
 * [2.4 Color and Text](howto/better-color.md)

@@ -1,16 +1,16 @@
 # 1.2 How is our content perceived?
 
-While there are [many types of assistive technology](https://webaccess.berkeley.edu/resources/assistive-technology), we will focus on screen readers which communicates the structure and content of our web pages via simulated speech or a Braille readout. Many of the best practices that will allow your content to be read via a screen reader will also help with other technologies.
+While there are [many types of assistive technology](https://webaccess.berkeley.edu/resources/assistive-technology), we will focus on screen readers which communicates the structure and content of web pages via simulated speech or a Braille readout. Many of the best practices that will allow your content to be read via a screen reader will also help with other technologies.
 
 ## Try this experiment
 
-Look at the the [_New York Times_ website](https://www.nytimes.com) and think aloud about what you are looking at as you go through the homepage. What are you reading to understand the news of the day? The headlines? The photos? The order of the articles? The navigation? Every single word on the page?
+Look at the [_New York Times_ website](https://www.nytimes.com) and think aloud about what you are looking at as you go through the homepage. What are you reading to understand the news of the day? The headlines? The photos? The order of the articles? The navigation? Every single word on the page?
 
 ![Front page of the New York Times, 11 March 2019.](../.gitbook/assets/screen-shot-2019-03-11-at-10.05.00-am.png)
 
 Now close your eyes and up comes the [_Washington Post_ website](https://www.washingtonpost.com/). How would you ask me to describe this page for you? Would we read every word from beginning to end \(including the 100 navigation links\)? No thank you. We would emulate the Starship Enterprise crew and command "Computer, read me the headlines" or "Computer, bring up the main navigation."
 
-These are the type of commands a person using a screen reader could indeed make to better understand the structure and content of our webpage. Just as we visually scan for headlines, a screen reader can accomplish the same by reading the page headings, links, and regions of the page \(such as the navigation and main content\). 
+These are the type of commands a person using a screen reader could make to better understand the structure and content of our webpage. Just as we visually scan for headlines, a screen reader can accomplish the same by reading the page headings, links, and regions of the page \(such as the navigation and main content\). 
 
 But what would happen if the computer had no way of telling which is which? That is where we come in.
 

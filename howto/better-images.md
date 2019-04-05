@@ -3,12 +3,12 @@
 ## The Interaction
 
 {% hint style="info" %}
-Students using a screen reader will hear the alternative text read aloud when encountering an image on your page. Lacking this text, the content will become invisible to the reader.
+Students using a screen reader will hear the alternative text \(also known as "alt text"\) read aloud when encountering an image on a webpage. Without alt-text, the images become invisible to the reader.
 {% endhint %}
 
 ## Solution: Use Alternative Text to describe your images
 
-Screen readers will read this "alt text" in the place of your image to convey the intended meaning. 
+Screen readers will read alt text in the place of the image to convey its intended meaning. 
 
 ### What should be included in the alt text?
 
@@ -21,11 +21,12 @@ Screen readers will read this "alt text" in the place of your image to convey th
 * Graphics are purely decorative.
 * Alt text would be repetitive information.
   * For example, the alt text for a book cover might be its title. If the image is next to a catalog link that also features the title, the alt text become redundant.
-* In these cases still use, we still need an alt tag, but it would be empty— &lt;img src="http://.../images/decorative.jpg" alt="" /&gt;
+* In these cases still use, we still need an alt tag, but it would be empty: 
+  * `<img src="http://.../images/decorative.jpg" alt="" />`
 
 ### How to add alt-text in LibGuides
 
-The image properties tool in LibGuides \(below\) provides a space where we can easily insert this description as you insert or edit the image. WordPress and other CMS have similar dialog boxes where you can enter the alt text.
+The image properties tool in LibGuides \(below\) provides a space where users can easily insert the description of an image when it is inserted or edited. WordPress and other CMS have similar dialog boxes where alt text can be entered.
 
 ![In LibGuides, entering alternative text is easy as you insert or edit your image.](../.gitbook/assets/alt-statement.jpg)
 
@@ -35,7 +36,7 @@ The image properties tool in LibGuides \(below\) provides a space where we can e
 * The error window will report if there are any images requiring alt text.
 * Next to the error message you'll see a small magnifying glass. You can click this icon to see which image caused the error.
 * Accessibility testing requires human verification. 
-  * For example, a missing alt-text can be reported for decorative images. If the image is indeed decorative or redundant info, don't worry about the error.
+  * For example, an "empty" alt tag `alt=""` is used for decorative images. This often comes up as an error in accessibility tests. If the image is indeed decorative, don't worry about the error.
 
 ## Additional information
 
