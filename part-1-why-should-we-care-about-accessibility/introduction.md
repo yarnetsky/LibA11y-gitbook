@@ -10,7 +10,9 @@ On the flip side, [dozens of colleges and universities across the United States 
 
 ### We're librarians!
 
-Providing universal access certainly makes sense from these perspectives, yet more importantly it helps us fulfill our mission in its purest sense. Instead of signing U.S. Department of Justice consent decrees, we can be at the front lines fighting for our patrons and students access to everything. **We're librarians! Access is our middle name.**
+> "We provide the highest level of service to **all library users** through appropriate and usefully organized resources; equitable service policies; **equitable access**; and accurate, unbiased, and courteous responses to all requests." — from [ALA Code of Ethics](http://www.ala.org/tools/ethics) \(emphasis for illustration\)
+
+Providing universal access certainly makes sense from these perspectives, yet more importantly it helps us fulfill our ethical mission. As such, we should be at the front lines fighting for our patrons and students access to everything. **We're librarians! Access is our middle name.**
 
 ### **Fear not, the basics are easy**
 
