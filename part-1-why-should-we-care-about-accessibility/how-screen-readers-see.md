@@ -4,19 +4,21 @@ While there are [many types of assistive technology](https://webaccess.berkeley.
 
 ## Try this experiment
 
-Look at the [_New York Times_ website](https://www.nytimes.com) and think aloud about what you are looking at as you go through the homepage. What are you reading to understand the news of the day? The headlines? The photos? The order of the articles? The navigation? Every single word on the page?
+Look at the [_New York Times_ website](https://www.nytimes.com) and think aloud about what you are looking at as you go through the homepage. 
 
-![Front page of the New York Times, 11 March 2019.](../.gitbook/assets/screen-shot-2019-03-11-at-10.05.00-am.png)
+![](../.gitbook/assets/screen-shot-2019-03-11-at-10.05.00-am.png)
 
-Now close your eyes and up comes the [_Washington Post_ website](https://www.washingtonpost.com/). How would you ask me to describe this page for you? Would we read every word from beginning to end \(including the 100 navigation links\)? No thank you. We would emulate the Starship Enterprise crew and command "Computer, read me the headlines" or "Computer, bring up the main navigation."
+What are you reading to understand the page? Are you reading every word on the page? Are you skimming the headlines? Looking at the photos? The navigation? Which methods help you understand the page the easiest and/or fastest? 
 
-These are the type of commands a person using a screen reader could make to better understand the structure and content of our webpage. Just as we visually scan for headlines, a screen reader can accomplish the same by reading the page headings, links, and regions of the page \(such as the navigation and main content\). 
+The answer, accordingly to [eye-tracking studies](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), is that we do not read every word, but rather we skim pages looking for content that interests or serves us best. In that scan we take in things like headings and key text such as phone numbers.
 
-But what would happen if the computer had no way of telling which is which? That is where we come in.
+A person can use a screen reader in much a similar manner as they aim to understand the structure and content of a webpage. Just as we visually scan for headlines, a screen reader can accomplish the same by reading the page headings, links, and regions of the page \(such as the navigation and main content\). 
+
+But what would happen if the computer had no way of telling which is which? That is where you, as the content creator, can help.
 
 ## Making the web visible to a screen reader
 
-Screen readers cannot communicate page content and structure based on what we can see with our eyes. Rather, they rely on how our page is coded and organized. If not done properly, content can go missing or its intent lost.
+Screen readers cannot communicate page content and structure based on what can only be seen by eye. Rather, they rely on how our page is coded and organized. If not done properly, content can go missing or its intent lost.
 
 For example, a screen reader relies on headings coded into the page to communicate article headlines or section titles within an article. For example, `<h1>` is for a top level heading, `<h2>` for second level, etc.
 
