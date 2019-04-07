@@ -1,6 +1,6 @@
 # 3.1 Accessibility testing and helping tools
 
-Here are some web-based tools we have found useful for self-evaluating your pages. These tools are recommended for use in conjunction with other tools/strategies/techniques for evaluating websites for comprehensive accessibility
+Below are some web-based tools that are useful for self-evaluating web pages. These tools are recommended for use in conjunction with other tools/strategies/techniques for evaluating websites for comprehensive accessibility
 
 ## General accessibility testing information
 

@@ -1,4 +1,4 @@
-# Endnotes
+# Conclusion
 
 This guide covered the common accessibility issues and solutions, yet web content often goes beyond simple or common. This is where your institution's accessibility experts and web developers can help! Never be afraid to ask for help as we all benefit. Go forth and create good!
 

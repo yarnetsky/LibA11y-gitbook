@@ -3,25 +3,25 @@
 ## The Interaction
 
 {% hint style="info" %}
-Multimedia can be a massive roadblock as it is inherently an audio/visual experience. This can leave students who have difficulty perceiving one or the other without access to the content.
+Multimedia can cause issues for those with visual and hearing disabilities  as it is inherently an audio/visual experience. This can leave users who have visual or auditory impairments without access to the content.
 {% endhint %}
 
 ## Solutions: Transcripts and closed captioning
 
-We must proactively create multimedia in an accessible manner by including both transcripts and closed captioning. Having both may seem redundant, but each fulfills different needs. For example, a video with flashing content can cause serious issues for people who suffer from epilepsy or migraines. The transcript becomes the tool that provides the content for this video.
+Content creators must proactively create multimedia in an accessible manner by including both transcripts and closed captioning. Having both may seem redundant, but each fulfills different needs. For example, a video with flashing content can cause serious issues for people who suffer from epilepsy or migraines. The transcript becomes the tool that provides the content for this video.
 
 ### Externally-created multimedia
 
-The captioning and transcript requirements also apply to video from outside sources. Older videos which do not include captioning can cause issues. As such, many colleges/universities have offices which create provide captioning and transcripts. Bring these folks donuts as they do solid work for our students.
+The captioning and transcript requirements also apply to video from outside sources. Older videos that do not include captioning can cause issues. As such, many colleges/universities have offices which create captioning and transcripts.
 
-If a professor wants to use library videos which lack captioning, we have a choice of creating captioning or suggesting alternative resources. Everyone must be able to access course material content.
+If a professor wants to use library videos that lack captioning, we have a choice of creating captioning or suggesting alternative resources. All students enrolled in a course must be able to access course material and should be able to do so at the same time.
 
 ## Additional Tips and Notes
 
 * The link to the transcript should be easily identifiable and adjacent to the video. 
 * Keep locally created video tutorials short and to the point.
 * Closed captions should reflect all sound that conveys content. This includes all relevant background noises and sound effects.
-* Ideally, student should be able to control the close captioning during playback such as captioning color and size.
+* Ideally, users should be able to control the close captioning during playback such as captioning color and size.
 
 ### **Sample video transcript button**
 
@@ -40,7 +40,7 @@ data-toggle="collapse" href="#collapse-transcript">Video Transcript</a></p>
 
 ## Testing
 
-Helper tools are not as helpful for multimedia as the captions or transcripts are often embedded from off-site. Thus, manually check each of your videos or audio clips for these content aid features.
+Accessibility testing tools are not as helpful for multimedia as the captions or transcripts are often embedded from off-site. Thus, manually check each of your videos or audio clips for these content aid features.
 
 ## Additional information
 

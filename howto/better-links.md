@@ -3,7 +3,7 @@
 ## The Interaction
 
 {% hint style="info" %}
-Another method for skimming a webpage with a screen reader is to listen to all the links on the page.
+Another method for skimming a webpage with a screen reader is to listen to all of the links on the page.
 {% endhint %}
 
 ## The Solution
@@ -12,7 +12,7 @@ Another method for skimming a webpage with a screen reader is to listen to all t
 * Read your links out of context to insure they will stand alone as a screen reader presents them in order.
 * Avoid introductory phrases such as "click here" for a link. 
 * Definitely do not use "click here" as a link on its own.
-* Do not use raw web addresses in links as the screen reader will read it aloud at painful length.
+* Do not use raw web addresses in links as the screen reader will read it aloud the entire URL.
 
 ### Examples
 

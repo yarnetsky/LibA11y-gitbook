@@ -24,5 +24,5 @@
 
 * [3.1 Accessibility testing and helping tools](accessibility-tools/browser-tools.md)
 * [3.2 Useful Links](accessibility-tools/useful-links.md)
-* [Endnotes](accessibility-tools/endnotes.md)
+* [Conclusion](accessibility-tools/endnotes.md)
 
