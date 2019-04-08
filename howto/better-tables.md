@@ -28,7 +28,7 @@ Here is an example default 3x2 table with a header created within LibGuide's ric
 
 Source: [Boston College LibGuides Accessibility Guide](http://libguides.bc.edu/guidestandards/accessibility)
 
-## Additional Information
+## Read more...
 
 * [Table Best Practices](http://webaim.org/techniques/tables/)A WebAIM tutorial
 

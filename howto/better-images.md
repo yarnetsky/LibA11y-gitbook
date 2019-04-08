@@ -38,7 +38,7 @@ The image properties tool in LibGuides \(below\) provides a space where users ca
 * Accessibility testing requires human verification. 
   * For example, an "empty" alt tag `alt=""` is used for decorative images. This often comes up as an error in accessibility tests. If the image is indeed decorative, don't worry about the error.
 
-## Additional information
+## Read more...
 
 For best practices on creating alternative text, please consult the links below.
 

@@ -42,7 +42,7 @@ data-toggle="collapse" href="#collapse-transcript">Video Transcript</a></p>
 
 Accessibility testing tools are not as helpful for multimedia as the captions or transcripts are often embedded from off-site. Thus, manually check each of your videos or audio clips for these content aid features.
 
-## Additional information
+## Read more...
 
-[Multimedia accessibility FAQ](https://www.w3.org/2008/06/video-notes)
+* [Multimedia accessibility FAQ](https://www.w3.org/2008/06/video-notes)
 

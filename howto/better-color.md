@@ -26,7 +26,7 @@ description: 'Color and text often interact, so we''ll cover both here...'
 * **Color combinations**: The [Spectrum color-blindness visualization tool](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb?hl=en) \(Chrome browser extension\) will change your screen colors to emulate how your webpage would be perceived by people with varying types of color blindness. Insure your page elements are differentiated for all sight types.
 * **Zoom your fonts**: Use `Command +` or `Control +` to enlarge your type to at least 200%.  Is your page still functional? If not, examine how your fonts are sized and/or talk with you website manager about the overall site. \(Control-0 returns you to normal size\).
 
-## Additional Information
+## Read more...
 
 * [**Spectrum color-blindness visualizing tool**](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb?hl=en): Great Chrome browser extension for seeing how others with varying color-blindness would perceive your content.
 * [**Designing for Color Blindness**](http://webaim.org/articles/visual/colorblind): This WebAIM tutorial provides examples of how color blindness impacts one's sight as well as possible solutions.

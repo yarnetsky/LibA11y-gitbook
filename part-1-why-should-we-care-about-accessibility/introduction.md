@@ -25,3 +25,7 @@ Providing universal access certainly makes sense from these perspectives, yet mo
 
 While implementing advanced web accessibility can require development experience, making the basic content we all create accessible can be accomplished by us all.
 
+## Read more...
+
+* [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
+
