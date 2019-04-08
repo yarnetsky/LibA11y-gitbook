@@ -1,8 +1,15 @@
+---
+description: >-
+  "The power of the Web is in its universality. Access by everyone regardless of
+  disability is an essential aspect." —Tim Berners-Lee, inventor of the World
+  Wide Web
+---
+
 # 1.1 Why should we care about accessibility?
 
 ### Universal access provides greater than expected benefits
 
-A student with hearing loss can obviously benefit from closed captioned video. So can a person who has issues differentiating spoken words from background noise. Yet many library videos are made with non-professional equipment and streamed over slower cell networks. In these instances, the sound quality of the video itself can suffer. Captioning walks in for the win!
+Consider closed captioned video. A viewer with hearing loss certainly can benefit from closed captioned video. A person who has difficulties understanding speech in noisy environments can also benefit. Now consider the video content itself. What if the presenter has an accent or is speaking in technical terms? Captions can provide clarity. Captions can also support poorly recorded video, such as when content is recorded in a noisy environment or if the sound becomes muffled. This wide range of benefits is very typical when you use universal access best practices.
 
 ### **Students are using the legal system to fight for equal access**
 
