@@ -8,7 +8,7 @@ When first visiting a webpage, a reader want to quickly gain an outline of the p
 
 ## Goal 2: Content meaning explained
 
-All meaning that would be visually gained from illustrated webpages should also be readily understood by patrons using assistive technologies. As screen readers cannot "see" our photos, alternative text is needed to explain a photo's purpose and content. Similarly, warnings are often color-coded red. These warnings should be understandable as a warning even without the use of color. Thoughtful writing and a little help from our content management systems make these tasks easier.
+All meaning that would be visually gained from illustrated webpages should also be readily understood by patrons using assistive technologies. As screen readers cannot "see" our photos, alternative text is needed to explain a photo's purpose and content. Similarly, warnings are often color-coded red. These warnings should be understandable as a warning even without the use of color. Incorporating best practices as you write, and a little help from our content management systems, make these tasks easier.
 
 ## Goal 3: Interactive tools enabled and described
 

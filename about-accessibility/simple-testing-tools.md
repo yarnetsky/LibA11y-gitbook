@@ -34,5 +34,11 @@ This same tool has also been adapted to be a Chrome and Firefox extension. Insta
    * Clicking the option a second time dismisses the report.
    * Similarly clicking the glasses again minimizes the tool.
 
-We will review these tools on the following pages as we talk about how to create better content.
+This YouTube video shows this process in motion.
+
+{% embed url="https://www.youtube.com/embed/78fhYurzlYc" %}
+
+We will review many of Tota11y's tools in the following pages as we talk about how to create better content.
+
+
 

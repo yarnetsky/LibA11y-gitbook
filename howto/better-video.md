@@ -3,18 +3,22 @@
 ## The Interaction
 
 {% hint style="info" %}
-Multimedia can cause issues for those with visual and hearing disabilities  as it is inherently an audio/visual experience. This can leave users who have visual or auditory impairments without access to the content.
+Without alternative access to the content, audio and visual media can leave users who have visual or auditory impairments without access to the content.
 {% endhint %}
 
 ## Solutions: Transcripts and closed captioning
 
 Content creators must proactively create multimedia in an accessible manner by including both transcripts and closed captioning. Having both may seem redundant, but each fulfills different needs. For example, a video with flashing content can cause serious issues for people who suffer from epilepsy or migraines. The transcript becomes the tool that provides the content for this video.
 
+### Audio Description
+
+Some video projects will also need audio description. This is a supplemental audio track that describes the visual elements of the video if the primary soundtrack does **not** convey the content through spoken word. 
+
 ### Externally-created multimedia
 
 The captioning and transcript requirements also apply to video from outside sources. Older videos that do not include captioning can cause issues. As such, many colleges/universities have offices which create captioning and transcripts.
 
-If a professor wants to use library videos that lack captioning, we have a choice of creating captioning or suggesting alternative resources. All students enrolled in a course must be able to access course material and should be able to do so at the same time.
+If a professor wants to use library videos that lacks closed captioning, we have a choice of creating captioning or suggesting alternative resources. All students enrolled in a course must be able to access course material and should be able to do so at the same time.
 
 ## Additional Tips and Notes
 
@@ -22,6 +26,7 @@ If a professor wants to use library videos that lack captioning, we have a choic
 * Keep locally created video tutorials short and to the point.
 * Closed captions should reflect all sound that conveys content. This includes all relevant background noises and sound effects.
 * Ideally, users should be able to control the close captioning during playback such as captioning color and size.
+* Do not use video that automatically plays when the webpage loads.
 
 ### **Sample video transcript button**
 
