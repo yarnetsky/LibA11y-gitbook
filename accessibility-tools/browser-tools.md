@@ -5,6 +5,7 @@ Below are some web-based tools that are useful for self-evaluating web pages. Th
 ## General accessibility testing information
 
 * [Easy Checks - A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/):  An in-depth accessibility review checklist. As you learn the basics, circle back to this checklist.
+* [Accessibility Evaluation Tools - An Overview](https://webaim.org/articles/tools/)
 
 ## Easy to use testing tools
 
@@ -15,6 +16,8 @@ Below are some web-based tools that are useful for self-evaluating web pages. Th
   * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/)
 * [ANDI - Accessibility Testing Tool](https://www.ssa.gov/accessibility/andi/help/install.html)
   * bookmarklet with multiple testing tools
+* [Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
+* [Color-reliant Link Contrast Checker](https://webaim.org/resources/linkcontrastchecker/)
 
 ## Color blindness visualization tools
 

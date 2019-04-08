@@ -16,9 +16,7 @@ Some video projects will also need audio description. This is a supplemental aud
 
 ### Externally-created multimedia
 
-The captioning and transcript requirements also apply to video from outside sources. Older videos that do not include captioning can cause issues. As such, many colleges/universities have offices which create captioning and transcripts.
-
-If a professor wants to use library videos that lacks closed captioning, we have a choice of creating captioning or suggesting alternative resources. All students enrolled in a course must be able to access course material and should be able to do so at the same time.
+These requirements also apply to video not created by the library. For example, if a professor wants to use a library video that lack these descriptive tools, such as an old VCR tape, we have a choice— we can either create the descriptive tools or suggest alternative resources. This is a common occurrence. As such, many colleges/universities have offices which create captioning and transcripts. The bottom line is that all students enrolled in a course must be able to access course material and should be able to do so at the same time.
 
 ## Additional Tips and Notes
 

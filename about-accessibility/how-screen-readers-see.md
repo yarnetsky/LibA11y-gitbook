@@ -45,3 +45,10 @@ When used correctly, our website management software, such as LibGuides or Wordp
 * [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
 * [I Used The Web For A Day Using A Screen Reader](https://www.smashingmagazine.com/2018/12/voiceover-screen-reader-web-apps/)
 
+### **Simulations from WebAIM**
+
+* [Screen reader Simulation](https://webaim.org/simulations/screenreader)
+* [Low-vision Simulation](https://webaim.org/simulations/lowvision)
+* [Dyslexia Simulation](https://webaim.org/simulations/dyslexia)
+* [Distractability Simulation](https://webaim.org/simulations/distractability)
+

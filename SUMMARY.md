@@ -18,11 +18,12 @@
 * [2.4 Color and Text](howto/better-color.md)
 * [2.5 Hyperlinks](howto/better-links.md)
 * [2.6 Tables](howto/better-tables.md)
-* [2.7 Extra tip: Better copy-pasting](howto/copy-pasting.md)
 
-## Toolbox & Resources
+## Toolbox & Additional Resources
 
 * [3.1 Accessibility testing and helping tools](accessibility-tools/browser-tools.md)
-* [3.2 Useful Links](accessibility-tools/useful-links.md)
+* [3.2 Better copy-pasting](accessibility-tools/copy-pasting.md)
+* [3.3 Non-HTML documents](accessibility-tools/3.3-non-html-documents.md)
+* [3.4 Useful Links](accessibility-tools/useful-links.md)
 * [Conclusion](accessibility-tools/endnotes.md)
 

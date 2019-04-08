@@ -1,15 +1,4 @@
-# 3.2 Useful Links
-
-## Accessibility for non-HTML documents
-
-The concepts from web documents can also apply to other documents. However, the implementation may differ. Here are links for tips on making additional file types accessible
-
-* [PDF files](http://webaim.org/techniques/acrobat/)
-* [Microsoft Word](http://webaim.org/techniques/word/) documents
-* [PowerPoint](http://webaim.org/techniques/powerpoint/) presentations
-* [Adobe Flash](http://webaim.org/techniques/flash/) content.
-
-Recommendations for most of these formats echo those for webpages such as using headings to convey logical flow for a Word document and PDFs.
+# 3.4 Useful Links
 
 ## Additional Information
 

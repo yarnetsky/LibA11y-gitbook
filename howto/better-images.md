@@ -12,8 +12,8 @@ Screen readers will read alt text in the place of the image to convey its intend
 
 ### What should be included in the alt text?
 
-* All _relevant_ information about the image’s appearance and function.
-* Keep it brief.
+* All information related to the image’s content and function.
+* Keep it brief. If brief is not possible, consider including more explanation in your text.
 * You can skip introductory phrases such as "image of...." as the screen reader will announce it is an image by default.
 
 ### Alt text is not needed when...
@@ -21,8 +21,8 @@ Screen readers will read alt text in the place of the image to convey its intend
 * Graphics are purely decorative.
 * Alt text would be repetitive information.
   * For example, the alt text for a book cover might be its title. If the image is next to a catalog link that also features the title, the alt text become redundant.
-* In these cases still use, we still need an alt tag, but it would be empty: 
-  * `<img src="http://.../images/decorative.jpg" alt="" />`
+* In these cases we still need an alt tag, but it would be empty: 
+  * `<img src="/images/decorative.jpg" alt="" />`
 
 ### How to add alt-text in LibGuides
 
