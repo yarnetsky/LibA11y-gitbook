@@ -8,8 +8,6 @@ First, why should we care?
 
 ![We can&apos;t sit on our laurels and assume that our content can be used by everyone.](.gitbook/assets/1000px-web_accessibility_laurel.svg.png)
 
-
-
 Version One created April 2019 by Jerry Yarnetsky, Miami University, Oxford, Ohio.   
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
