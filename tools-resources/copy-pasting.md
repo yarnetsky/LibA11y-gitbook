@@ -1,4 +1,4 @@
-# 3.2 Better copy-pasting
+# B. Better copy-pasting
 
 ## The hidden problem with copy/paste
 

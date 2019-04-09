@@ -1,6 +1,6 @@
-# 3.4 Useful Links
+# A. Useful Links
 
-## Additional Information
+## Read More...
 
 * [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 * [Tips for Getting Started Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/)
@@ -20,11 +20,25 @@
 * [Understanding and implementing Web Content Accessibility Guidelines 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/): Directly from the WCAG working group
 * [Techniques and guidelines for rich internet applications](https://www.w3.org/TR/wai-aria-practices/): WAI-ARIA Authoring Practices 1.1 \(Feb 2019\).
 
+## Accessibility Testing
+
+* [Easy Checks - A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/):  An in-depth accessibility review checklist. As you learn the basics, circle back to this checklist.
+* [Accessibility Evaluation Tools - An Overview](https://webaim.org/articles/tools/)
+
 ## **Articles and e-books**
 
 * [Eighteen Blind Library Users’ Experiences with Library Websites and Search Tools in U.S. Academic Libraries: A Qualitative Study](https://crl.acrl.org/index.php/crl/article/view/16947/19428)
 * [Web Accessibility for Developers](https://pressbooks.library.ryerson.ca/wafd/): A more advanced resource for developers used to working with HTML, CSS, and Javascript. \(ebook\)
 * [Professional Web Accessibility Auditing Made Easy](https://pressbooks.library.ryerson.ca/pwaa/) \(ebook\)
+
+## Screen readers
+
+* [ChromeVox screen reader \(Chrome extension\)](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en)
+  * Help file: [Keyboard shortcuts](https://www.chromevox.com/keyboard_shortcuts.html)
+
+
+
+
 
 
 

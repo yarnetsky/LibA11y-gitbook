@@ -1,4 +1,4 @@
-# 1.4 Let's install a simple accessibility testing tool
+# 1.4 Simple accessibility testing tools
 
 In the next section, strategies will be outlined for creating accessible content. But first, let's install a simple tool that can double check your work as it is created. 
 
@@ -40,5 +40,19 @@ This YouTube video shows this process in motion.
 
 We will review many of Tota11y's tools in the following pages as we talk about how to create better content.
 
+## Additional easy to use testing tools
 
+* **WAVE Accessibility Evaluation Tools**
+  * [Website version](http://wave.webaim.org/)
+  * [Chrome extension](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
+  * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/)
+* [ANDI - Accessibility Testing Tool](https://www.ssa.gov/accessibility/andi/help/install.html)
+  * bookmarklet with multiple testing tools
+* **Contrast checkers**
+  * [Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
+  * [Color-reliant Link Contrast Checker](https://webaim.org/resources/linkcontrastchecker/)
+* **Color blindness visualization tools**
+
+  * [Spectrum \(Chrome extension\)](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb?hl=en)
+  * [NoCoffee vision simulator \(Chrome extension\)](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl?hl=en-US)
 
