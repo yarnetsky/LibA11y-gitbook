@@ -34,7 +34,7 @@ This same tool has also been adapted to be a Chrome and Firefox extension. Insta
    * Clicking the option a second time dismisses the report.
    * Similarly clicking the glasses again minimizes the tool.
 
-This YouTube video shows this process in motion.
+This video shows this same process in motion.
 
 {% embed url="https://www.youtube.com/embed/78fhYurzlYc" %}
 
