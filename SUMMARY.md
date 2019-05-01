@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction to LibA11y](README.md)
 
 ## Part 1: Why should we care about accessibility?
 
