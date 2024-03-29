@@ -9,7 +9,6 @@ This guide is written in Gitbooks with files in Github to allow for easy collabo
 ## Coming soon
 
 * A content accessibility checklist/cheatsheet
-* Improved link curation.
 
 ## Contact Us
 
@@ -19,11 +18,5 @@ Was this guide used at your college? Was this guide useful? Run into issues? Do 
 
 ## Creative Commons BY-NC-SA 4.0
 
-Version One was created in 2019 by Jerry Yarnetsky of Miami University, Oxford, Ohio. This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-## **Finally, what does "LibA11y" mean?** 
-
-Lib ****is for the wonderful world of libraries. **A11y** is a common numeronym for accessibility \(11 being the number of characters between the A and Y.\) Phonetically, a11y makes us allies for universal access.
-
-
+Version 1.2 was created in 2024 by Jerry Yarnetsky of Miami University, Oxford, Ohio. This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 

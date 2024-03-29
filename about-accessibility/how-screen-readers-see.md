@@ -1,52 +1,44 @@
 # 1.2 How is content perceived?
 
-While there are [many types of assistive technology](https://webaccess.berkeley.edu/resources/assistive-technology), we will focus on screen readers which communicates the structure and content of web pages via simulated speech or a Braille readout. Many of the best practices that will allow your content to be read via a screen reader will also help with other assistive technologies.
+### Try this experiment
 
-## Try this experiment
+Go to the [_New York Times_ website](https://www.nytimes.com) and ask yourself the following questions. What are you reading to understand the page? Are you reading every word or just the headlines? Looking at the photos? Going to the page navigation? Which methods help you understand the page the easiest and the fastest?
 
-Look at the [_New York Times_ website](https://www.nytimes.com) and think aloud about what you are looking at as you go through the homepage. 
+<figure><img src="../.gitbook/assets/Screen Shot 2019-03-11 at 10.05.00 AM.png" alt="Sample homepage of the New York Times"><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/screen-shot-2019-03-11-at-10.05.00-am.png)
+Accordingly to [eye-tracking studies](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), we initially skim pages for content by scanning page elements such as headlines and key text such as phone numbers. Then we zoom into the sections of text to read the details that interest us.
 
-What are you reading to understand the page? Are you reading every word on the page? Are you skimming the headlines? Looking at the photos? The navigation? Which methods help you understand the page the easiest and/or fastest? 
+An aspect taken for granted in this process is that we can do all this because **we can see the site**.
 
-The answer, accordingly to [eye-tracking studies](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), is that we do not read every word, but rather we skim pages looking for content that interests or serves us best. In that scan we take in things like headings and key text such as phone numbers.
+Our senses — such as sight and hearing — are input devices to our brain. We rely heavily on our senses for everything we do online. However, if we cannot rely on one of those senses, everything changes.
 
-A person can use a screen reader in much a similar manner as they aim to understand the structure and content of a webpage. Just as we visually scan for headlines, a screen reader can accomplish the same by reading the page headings, links, and regions of the page \(such as the navigation and main content\). 
+### Assistive technology helps shift senses
 
-But what would happen if the computer had no way of telling which is which? That is where you, as the content creator, can help.
+This is where assistive technology comes into play— it can shift input to a sense you can rely on. For instance, closed captions allow a person to read the dialog and environmental sounds from a video they might not be able to hear. In turn, a person using a screen reader can listen to articles online they cannot see. Indeed, a screen reader can provide in-depth information about page structure, content, and navigation— providing the same information we visually scan.
 
 ## Making the web visible to a screen reader
 
-Screen readers cannot communicate page content and structure based on what can only be seen by eye. Rather, they rely on how our page is coded and organized. If not done properly, content can go missing or its intent lost.
+However, screen readers themselves cannot see. They can only communicate page content and structure based on how our pages are encoded and organized. Not encoded properly, content can go missing or its intent lost.
 
 For example, a screen reader relies on headings coded into the page to communicate article headlines or section titles within an article. For example, `<h1>` is for a top level heading, `<h2>` for second level, etc.
 
-With our headline labeled as a heading, our screen reader can indeed see it as a headline. 
+With our headline labeled as a heading, our screen reader can indeed see it as a headline.&#x20;
 
 ```markup
 <h2>Article headline</h2>
 <p>This is the first paragraph of content.</p>
 ```
 
-On the other hand, what if we only make the words bold? It will stand out visually, but a screen reader has no means of knowing if we intend for this text to be a headline or simply emphasized.
+On the other hand, what if we only make the words bold? The words will stand out visually, but a screen reader has no means of knowing if we intend for this text to be a headline or simply emphasized.
 
 ```markup
 <p><strong>These words are bold, but is it a headline?</strong></p>
 <p>This is the first paragraph of the article.</p>
 ```
 
-When used correctly, our website management software, such as LibGuides or Wordpress, can handle most of these simple coding needs. However, as we write content within them, we can still introduce many errors. These errors, in turn, can make reading the pages with a screen reader difficult at best.
+When used correctly, our content management system, such as LibGuides or Wordpress, can handle most of these simple coding needs. However, as we write our content, we can still introduce many errors that can make reading the pages with a screen reader difficult at best. Avoiding these errors is where this guide hopes to help!
 
 ## Read more...
 
 * [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
 * [I Used The Web For A Day Using A Screen Reader](https://www.smashingmagazine.com/2018/12/voiceover-screen-reader-web-apps/)
-
-### **Simulations from WebAIM**
-
-* [Screen reader Simulation](https://webaim.org/simulations/screenreader)
-* [Low-vision Simulation](https://webaim.org/simulations/lowvision)
-* [Dyslexia Simulation](https://webaim.org/simulations/dyslexia)
-* [Distractability Simulation](https://webaim.org/simulations/distractability)
-
