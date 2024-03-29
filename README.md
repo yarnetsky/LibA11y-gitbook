@@ -22,7 +22,7 @@ You can read this guide multiple ways. You can read it beginning to end. You can
 
 ## **What does "LibA11y" mean?**&#x20;
 
-Lib is for the wonderful world of libraries. **A11y** is a common numeronym for accessibility (11 being the number of characters between the A and Y.) Phonetically, a11y makes us allies for universal access.
+**Lib** is for the wonderful world of libraries. **A11y** is a common numeronym for accessibility — 11 being the number of characters between the A and Y. Phonetically, a11y makes us allies for universal access.
 
 ## Use-Share-Remix
 
