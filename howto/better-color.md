@@ -24,9 +24,10 @@ description: Color and text often interact, so we'll cover both here...
 ### Video tutorials
 
 {% embed url="https://www.youtube.com/watch?v=qc8X71Nf2Kg" %}
+How to check for sufficient color contrast, and why it’s important. \[Open Captioned video 3:40 min] From the ADA National Network.
+{% endembed %}
 
-* [Use of Color Alone to Convey Information](https://www.youtube.com/watch?v=8\_eVF0LPs0s) \[Open Captioned Video 5:14min]: What to think about when using color to convey information
-*
+* [Use of Color Alone to Convey Information](https://www.youtube.com/watch?v=8\_eVF0LPs0s) \[Open captioned video 5:14min]: What to think about when using color to convey information.
 
 ## Testing
 
