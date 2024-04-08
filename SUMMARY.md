@@ -4,7 +4,7 @@
 
 ## Part 1: Why should we care? <a href="#about-accessibility" id="about-accessibility"></a>
 
-* [1.1 Why should we care about accessibility?](about-accessibility/introduction.md)
+* [1.1 Why should we care about digital accessibility?](about-accessibility/introduction.md)
 * [1.2 How is content perceived?](about-accessibility/how-screen-readers-see.md)
 
 ## Part 2: How To Build Better... <a href="#howto" id="howto"></a>
