@@ -3,10 +3,12 @@
 ## Screen Reader Interaction
 
 {% hint style="info" %}
-Without alternative access to the content, audio and visual media can leave users who have visual or auditory impairments without access to the content.
+Sight and sound each provide a wide range of crucial information from dialog to environmental sights and sounds. Without alternative access to this content, audio and visual media can leave users who have visual or auditory impairments without access to this content.
 {% endhint %}
 
-## Solutions: Transcripts and closed captioning
+## Solutions&#x20;
+
+### Transcripts and closed captioning
 
 Content creators must proactively create multimedia in an accessible manner by including both transcripts and closed captioning. Having both may seem redundant, but each fulfills different needs. For example, a video with flashing content can cause serious issues for people who suffer from epilepsy or migraines. The transcript becomes the tool that provides the content for this video.
 
@@ -48,3 +50,4 @@ Accessibility testing tools are not as helpful for multimedia as the captions or
 ## Read more...
 
 * [Multimedia accessibility FAQ](https://www.w3.org/2008/06/video-notes)
+* [Audio Description Examples](https://www.3playmedia.com/learn/how-to-guides/audio-description-how-to-guides/audio-description-examples/)
