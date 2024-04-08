@@ -8,17 +8,16 @@ Each page will focus on a specific aspect of web content, such headings, images,
 
 Before we jump into the details of making your content better, let's install a simple accessibility testing tool for your content that can double check your work as it is created.  **Testing Tip**: Test a preview version of your page and not the editing version of your page.
 
-### **WAVE Accessibility Evaluation Tools**
+### **WAVE Accessibility Evaluation Tool**
 
 The WAVE accessibility toolkit was created specifically with web content creators in mind. It can help you test each of the issues in our guide. Install a browser extension or enter your site URL in the website version.&#x20;
 
-* [Website version](http://wave.webaim.org/)
-* [Chrome extension](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
-* [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/)
-* [Edge extension](https://microsoftedge.microsoft.com/addons/detail/wave-evaluation-tool/khapceneeednkiopkkbgkibbdoajpkoj)
+* [Website version](http://wave.webaim.org/) and information
+* Extensions: [Chrome,](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) [Firefox,](https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/) and [Edge](https://microsoftedge.microsoft.com/addons/detail/wave-evaluation-tool/khapceneeednkiopkkbgkibbdoajpkoj) versions.
 
-### **Color checking tools**&#x20;
+### **Additional testing tools**&#x20;
 
-* [Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
-* [Color-reliant Link Contrast Checker](https://webaim.org/resources/linkcontrastchecker/)
-* [Spectrum color-blindness visualization tool (Chrome extension)](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb?hl=en)
+* [Axe Dev Tools](https://www.deque.com/axe/browser-extensions/): advanced tools for accessibility testing.&#x20;
+* [Color Contrast Checker](https://webaim.org/resources/contrastchecker/): Test web colors for contrast
+* [Color-reliant Link Contrast Checker](https://webaim.org/resources/linkcontrastchecker/): See if your link colors pass contrast tests.
+* [A11y color blindness empathy tool](https://chromewebstore.google.com/detail/a11y-color-blindness-empa/idphhflanmeibmjgaciaadkmjebljhcc) (Chrome extension)
