@@ -5,7 +5,8 @@
 {% hint style="info" %}
 * Carefully watch the language you use for the writing on your page. Perfect technical accessibility cannot help you if your reader cannot understand your writing.
 * Poorly formatted page text can detract from your page's readability.&#x20;
-* Long paragraphs are difficult to read on digital screens
+* Long paragraphs are difficult to read on digital screens.
+* Poor text spacing, such as word spacing created by justified text, makes pages hard to read for people with dyslexia.
 * Literacy research has concluded that half of American adults can’t read a book written at an eighth-grade level.
 {% endhint %}
 
@@ -29,6 +30,7 @@
 * Use list formatting as appropriate.
 * Don't use underlined text — this is reserved for links. Use bold text for emphasis instead.
 * Avoid using all caps for text.
+* Avoid justified text.
 * Left align text to keep word spacing consistent.
 * Do not mix fonts within article paragraphs.
   * On a given page ideally use only one heading font and one paragraph font.&#x20;
