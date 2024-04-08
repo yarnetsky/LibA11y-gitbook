@@ -2,6 +2,7 @@
 
 ## Official WCAG accessibility sites
 
+* [Video introduction to Digital Accessibility](https://adata.org/ocr-videos): A great series of introductory videos created by the U.S. Department of Education Office for Civil Rights.
 * [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 * [Tips for Getting Started Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/)
 * [Quick reference for Web Content Accessibility Guidelines](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.2): customizable quick reference to Web Content Accessibility Guidelines (WCAG) 2 requirements (success criteria) and techniques. Check out the filter tab to filter the guidelines to your needs.
