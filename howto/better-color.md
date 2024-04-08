@@ -21,19 +21,21 @@ description: Color and text often interact, so we'll cover both here...
 * **Avoid using absolute text sizes**: Older browsers are unable to resize absolute sized text, such as 16px (pixels). If you alter your default text sizes, use relative sizes where possible — for instance small and x-large, or 1.5em and 90%.
 * **Test your color combinations**: The WAVE tools allows you to not only scan for errors, but also test specific low-contrast color combinations. Specialized tools are available to help you visualize your page with color blindness.
 
-### Video tutorial
+### Video tutorials
 
 {% embed url="https://www.youtube.com/watch?v=qc8X71Nf2Kg" %}
+
+* [Use of Color Alone to Convey Information](https://www.youtube.com/watch?v=8\_eVF0LPs0s) \[Open Captioned Video 5:14min]: What to think about when using color to convey information
+*
 
 ## Testing
 
 * **Contrast testing**: On the WAVE tool, select the "Contrast" tab to view any errors. Click each error icon to see where on your page the errors reside. The Contrast tab also offers a color mixer that lets you find the proper color to fix the errors.
-* **Color combinations**: The [Spectrum color-blindness visualization tool](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb?hl=en) (Chrome browser extension) will change your screen colors to emulate how your webpage would be perceived by people with varying types of color blindness. Insure your page elements are differentiated for all sight types.
-* **Zoom your fonts**: Use `Command +` or `Control +` to enlarge your type to at least 200%.  Is your page still functional? If not, examine how your fonts are sized and/or talk with you website manager about the overall site. (Control-0 returns you to normal size).
+* **Color combinations**: The [A11y color-blindness visualization tool](https://chromewebstore.google.com/detail/a11y-color-blindness-empa/idphhflanmeibmjgaciaadkmjebljhcc) (Chrome browser extension) will change your screen colors to emulate how your webpage would be perceived by people with varying types of color blindness. Insure your page elements are differentiated for all sight types.
+* **Zoom your fonts**: Use `Command +` or `Control +` to enlarge your type to at least 200%.  Is your page still functional? If not, examine how your fonts are sized and/or talk with you website manager about the overall site. (Control-0 returns you to normal size). Here's a [video that describes this zoom testing](https://www.youtube.com/watch?v=Fu2SIL7oVCU).
 
 ## Read more...
 
-* [**Spectrum color-blindness visualizing tool**](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb?hl=en): Great Chrome browser extension for seeing how others with varying color-blindness would perceive your content.
 * [**Designing for Color Blindness**](http://webaim.org/articles/visual/colorblind): This WebAIM tutorial provides examples of how color blindness impacts one's sight as well as possible solutions.
 * [**Color Safe**](http://colorsafe.co/): Empowering designers with beautiful and accessible color palettes based on WCAG Guidelines of text and background contrast ratios.
 
