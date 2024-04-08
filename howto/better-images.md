@@ -28,6 +28,8 @@ Screen readers will read alt text in the place of the image to convey its intend
 ### Video tutorial
 
 {% embed url="https://www.youtube.com/watch?v=pJKOsX82r9I" %}
+Learn about alternative text and why it is important for people who cannot see photographs and graphic images. From the ADA National Network.
+{% endembed %}
 
 ### How to add alt-text in LibGuides
 
