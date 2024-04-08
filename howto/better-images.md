@@ -25,6 +25,10 @@ Screen readers will read alt text in the place of the image to convey its intend
 * In these cases we still need an alt tag, but it would be empty:&#x20;
   * `<img src="/images/decorative.jpg" alt="" />`
 
+### Video tutorial
+
+{% embed url="https://www.youtube.com/watch?v=pJKOsX82r9I" %}
+
 ### How to add alt-text in LibGuides
 
 The image properties tool in LibGuides (below) provides a space where users can easily insert the description of an image when it is inserted or edited. Drupal, WordPress, and other CMS have similar dialog boxes where alt text can be entered.

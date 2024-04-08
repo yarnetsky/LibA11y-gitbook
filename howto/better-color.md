@@ -21,6 +21,10 @@ description: Color and text often interact, so we'll cover both here...
 * **Avoid using absolute text sizes**: Older browsers are unable to resize absolute sized text, such as 16px (pixels). If you alter your default text sizes, use relative sizes where possible — for instance small and x-large, or 1.5em and 90%.
 * **Test your color combinations**: The WAVE tools allows you to not only scan for errors, but also test specific low-contrast color combinations. Specialized tools are available to help you visualize your page with color blindness.
 
+### Video tutorial
+
+{% embed url="https://www.youtube.com/watch?v=qc8X71Nf2Kg" %}
+
 ## Testing
 
 * **Contrast testing**: On the WAVE tool, select the "Contrast" tab to view any errors. Click each error icon to see where on your page the errors reside. The Contrast tab also offers a color mixer that lets you find the proper color to fix the errors.
