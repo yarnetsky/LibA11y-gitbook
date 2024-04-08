@@ -23,6 +23,12 @@ Another method for skimming a webpage with a screen reader is to listen to all o
 * _**Poorly written**_: Learn more about accessibility [here](http://webaim.org/standards/wcag/).
 * _**Better**_: Learn more about [accessibility standards from WebAIM](https://www.w3.org/WAI/intro/wcag).
 
+## Video tutorial
+
+{% embed url="https://www.youtube.com/watch?v=Smy4OAmMEwE" %}
+All about links: how they are used in navigation, labelling concerns, and distinguishing them from surrounding text. From the ADA National Network.
+{% endembed %}
+
 ## Testing
 
 When reviewing WAVE's "Details" tab, look for alerts of "Suspicious Link Text" then click on the link alert icons to find the questionable links on your page. On this page WAVE identified the poorly written link examples above. The tool also identified redundant links from the examples above as well!
