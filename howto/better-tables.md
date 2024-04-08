@@ -28,6 +28,12 @@ Here is an example default 3x2 table with a header created within LibGuide's ric
 
 Source: [Boston College LibGuides Accessibility Guide](http://libguides.bc.edu/guidestandards/accessibility)
 
+## Video tutorial
+
+{% embed url="https://www.youtube.com/watch?v=_PWI-4McgcE" %}
+Do you need to use a data table on your web page? If so, learn how to appropriately format table content to ensure everyone can understand your data.
+{% endembed %}
+
 ## Read more...
 
 * [Table Best Practices](http://webaim.org/techniques/tables/): A WebAIM tutorial
