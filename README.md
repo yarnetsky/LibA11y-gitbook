@@ -8,7 +8,7 @@ In the library world, we create a lot of content. This guide is designed to help
 
 ## How to use this guide
 
-You can read this guide multiple ways. You can read it beginning to end. You can jump directly to the section you immediately need. You can read details about how library patrons use screen readers to better understand how these content solutions work— or jump right to the solutions section. You can grab what you need and return for additional information as you find time. Definitely [install the WAVE testing tool](howto/how-to-build-better.md) to help you check your work.
+You can read this guide multiple ways. You can read it beginning to end. You can jump directly to the section you immediately need. You can read details about how library patrons use screen readers to better understand how these content solutions work— or jump right to the solutions section. Videos created by the U.S. Dept. of Education show a lot of the recommendations in action. Grab what you need and return for additional information as you find time. Definitely [install the WAVE testing tool](howto/how-to-build-better.md) to help you check your work.
 
 > ## 5 quick tips to immediately improve your content accessibility
 >
