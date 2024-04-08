@@ -57,6 +57,12 @@ In LibGuides, for instance, Heading 1 `<h1>` is reserved for guide titles and He
 * **Use the built-in tools for ordered (numbered) and unordered (bulleted) lists.** When creating lists, think about the type of list needed. For instance, if the list is a series of steps, use the ordered list tool. If order is not critical then using the bulleted list tool works perfectly.
 * **With multi-column pages, watch your content order closely.** Because the entire first column will be read before the second column, don't place related materials side-by-side in different columns if there is unrelated material below in the first column.
 
+### Video Tutorial
+
+{% embed url="https://www.youtube.com/watch?t=181s&v=T-Ky_hMTIpI" %}
+Learn how to use heading structure on a web page so everyone can navigate your content with ease. From the ADA National Network.
+{% endembed %}
+
 ## Testing
 
 ### Using WAVE tool
